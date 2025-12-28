@@ -1,0 +1,11 @@
+#Font font-family
+font-family = JetBrainsMono Nerd Font
+
+#font-size
+font-size = 12
+
+#theme
+theme = TokyoNight 
+
+#keybinds
+keybind = f11=toggle_fullscreen
