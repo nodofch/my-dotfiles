@@ -1,7 +1,7 @@
-## FIRST LINE/ROW: Info & Status
+# FIRST LINE/ROW: Info & Status
 # First param ─┌
 [username]
-format = " [╭─$user]($style)@"
+format = " [$user]($style) on "
 style_user = "bold blue"
 style_root = "bold blue"
 show_always = true
@@ -68,7 +68,7 @@ disabled = true
 
 # Prompt: param 2 └─
 [character]
-success_symbol = " [╰Zzz](bold blue)"
+success_symbol = " [>](bold blue)"
 error_symbol = " [×](bold red)"
 
 # SYMBOLS
